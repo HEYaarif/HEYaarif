@@ -1,1 +1,1 @@
-Hi, I’m Md Aarif, a passionate Full Stack Developer with strong experience in Next.js, React, Node.js, MongoDB, and modern web technologies. I enjoy building scalable, user-focused applications and solving real-world problems through clean and efficient code. Always eager to learn new tools, improve my skills, and take on challenging projects.
+👋 Full Stack Developer specializing in React.js and Next.js. Open to collaborating on real-world projects and problem-solving in modern web development.
